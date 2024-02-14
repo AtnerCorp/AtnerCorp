@@ -5,11 +5,11 @@
 - 📫 You can purchase or learn more by clicking one of the links under
 -Atner Website:
  
-Home pagehttps://atnercorp.github.io/View/
+Home page  https://atnercorp.github.io/View/
 
-  Ruleshttps://atnercorp.github.io/View/Rules
+  Rules  https://atnercorp.github.io/View/Rules
 
-  Why do i have to verifyhttps://atnercorp.github.io/View/verify
+  Why do i have to verify  https://atnercorp.github.io/View/verify
 
 -Atner Discord Server:
 
