@@ -5,9 +5,9 @@
 - 📫 You can purchase or learn more by clicking one of the links under
 -Atner Website:
  
--Home pagehttp://lnkiy.in/Atnerr
--Ruleshttp://lnkiy.in/AtnerRules
--Why do i have to verifyhttp://lnkiy.in/AtnerVerify
+Home pagehttps://atnercorp.github.io/View/
+  Ruleshttps://atnercorp.github.io/View/Rules
+  Why do i have to verifyhttps://atnercorp.github.io/View/verify
 
 -Atner Discord Server:
 
