@@ -6,7 +6,9 @@
 -Atner Website:
  
 Home pagehttps://atnercorp.github.io/View/
+
   Ruleshttps://atnercorp.github.io/View/Rules
+
   Why do i have to verifyhttps://atnercorp.github.io/View/verify
 
 -Atner Discord Server:
